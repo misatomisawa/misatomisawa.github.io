@@ -368,12 +368,13 @@ h1{font-family:"Gulim";
 }
 
 #row{
-	width: 936px;
+	/*width: 936px;*/
 	/*height: 500px*/
 	margin:0 auto;
 	padding:20px 0px 20px 0px;
 	/*text-align: center;*/
 	color:#3f3f3f;
+	background-color:#f2f2f2;
 }
 .row_farm{
 	
@@ -392,7 +393,6 @@ h1{font-family:"Gulim";
 	/*text-align: center;*/
 	color:#3f3f3f;
 	font-size: 12px;
-	background-color:#f2f2f2;
 }
 
 .list_footer{
